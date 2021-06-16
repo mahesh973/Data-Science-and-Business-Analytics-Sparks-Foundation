@@ -1,1 +1,1 @@
-# Data-Science-and-Business-Analytics-Sparks-Foundation
+# Data Science and Business-Analytics Sparks-Foundation
